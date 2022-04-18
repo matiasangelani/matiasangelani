@@ -13,18 +13,18 @@
 
 ```javascript
 const aboutMe = {
-   code: [Javascript, Typescript, HTML, CSS],
+   code: [Javascript, Typescript],
    technologies: {
       frontEnd: {
          js: ["React", "Redux"],
          css: ["Bootstrap", "Styled-Components", "Sass"]
       },
       backEnd: {
-         js: ["Node", "Express"],
+         js: ["Node", "Express", "Sequelize"],
       },
-      databases: ["MongoDB", "mySQL", "SQLServer", "PostgreSQL"],
+      databases: ["SQLServer", "PostgreSQL"],
    },
-   currentOccupation: ["student at Henry"],
+   currentOccupation: ["student at Henry", "system engineer student"],
 };
 ```
 
